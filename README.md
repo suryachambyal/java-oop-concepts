@@ -1,4 +1,4 @@
-# Java OOP Concepts ☕
+# Java OOP Concepts
 
 A complete Java Object-Oriented Programming repository covering:
 
